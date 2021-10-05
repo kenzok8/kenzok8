@@ -1,4 +1,7 @@
-# Hi, I'm kenzo
+<p>
+  <h1 align="center">
+    <b>Hi I'm <a href="https://t.me/joinchat/JjxmyRZZXJWb74I-sCrryA">kenzo</a> 🎈</b>
+  <
 
 <div align="right">
   <a href="https://google.com/donate">
