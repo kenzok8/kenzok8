@@ -28,3 +28,7 @@
 </div>
 <br />
 
+[kenzo78| 多个主流代码x86固件编译](https://github.com/kenzok8/openwrt_Build)
+[kenzok8| openwrt21.02官网源码x86固件编译](https://github.com/kenzok78/Build-OpenWrt)
+[kenzok8| openwrt同步的上游软件](https://github.com/kenzok8/small-package)
+[kenzok8| 每天编译同步的上游软件](https://github.com/kenzok8/small-package)
