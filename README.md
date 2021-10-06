@@ -27,8 +27,3 @@
   <br />
 </div>
 <br />
-
-+ [kenzo78| 6 x86 compilation](https://github.com/kenzok8/openwrt_Build)
-+ [kenzok8| Openwrt21.02 x86 compilation](https://github.com/kenzok78/Build-OpenWrt)
-+ [kenzok8| Openwrt syn upstream](https://github.com/kenzok8/small-package)
-+ [kenzok8| Openwrt syn upstream build](https://github.com/kenzok8/small-package)
