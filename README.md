@@ -22,9 +22,9 @@
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
-  <small>荣枯事过都成梦<small>
-  <small>悲喜不惊便是禅<small>
-  <br />
-  <br />
-</div>
-<br />
+   <small>仙枰相对心偏静，妙着能赢意自骄</small>
+   <br />
+   <br />
+ </div>
+ <br />
+
