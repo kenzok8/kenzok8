@@ -27,15 +27,13 @@ jobs:
         uses: Mattraks/delete-workflow-runs@v2.0.1
         with:
           token: ${{ github.token }}
-          repository: ${{ github.repository }}
+          repository: openwrt-packages
           retain_days: 1
           keep_minimum_runs: 1
 
-      - name: Delete workflow runs
-        uses: Mattraks/delete-workflow-runs@v2.0.1
+      - name: Delete old workflow runs
+        uses: GitRML/delete-workflow-runs@main
         with:
-          token: ${{ github.token }}
-          repository: kenzok8/small-package.git
           retain_days: 1
           keep_minimum_runs: 1
          
