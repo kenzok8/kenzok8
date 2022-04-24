@@ -23,9 +23,9 @@ jobs:
           git commit --allow-empty -m "a commit a day keeps your girlfriend away"
           git push
 
-      - name: Delete old workflow runs
-        uses: GitRML/delete-workflow-runs@main
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2.0.1
         with:
           retain_days: 1
-          keep_minimum_runs: 1
+          keep_minimum_runs: 3
          
