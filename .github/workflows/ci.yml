@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "3-53/10 * * * *"
+    - cron: "3-53/60 * * * *"
 
 jobs:
   autogreen:
@@ -26,7 +26,7 @@ jobs:
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@v2.0.1
         with:
-          token: ${{ ACCESS_TOKEN }}
+          token: ${{ github.token }}
           repository: ${{ github.repository }}
           retain_days: 1
           keep_minimum_runs: 1
@@ -34,7 +34,7 @@ jobs:
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@v2.0.1
         with:
-          token: ${{ ACCESS_TOKEN }}
+          token: ${{ github.token }}
           repository: kenzok8/small-package.git
           retain_days: 1
           keep_minimum_runs: 1
