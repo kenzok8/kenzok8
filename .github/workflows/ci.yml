@@ -24,16 +24,16 @@ jobs:
           git push
 
       - name: Delete old workflow runs
-        uses: ActionsRML/delete-workflow-runs@main
-        with:
-          token: ${{ github.token }}
-          repository: kenzok8/openwrt-packages
-          retain_days: 1
-          keep_minimum_runs: 1	
-
-      - name: Delete old workflow runs
         uses: GitRML/delete-workflow-runs@main
         with:
           retain_days: 1
           keep_minimum_runs: 1
+ 
+      - name: Delete old workflow runs
+        uses: GitRML/delete-workflow-runs@main
+        with:
+          token: ${{ github.token }}
+          repository: kenzok8/openwrt-packages
+          retain_days: 1
+          keep_minimum_runs: 1 
          
