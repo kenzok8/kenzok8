@@ -3,8 +3,8 @@
     <b>I'm <a href="https://t.me/joinchat/JjxmyRZZXJWb74I-sCrryA">kenzo</a> 🎈</b>
 
 <div align="right">
-  <a href="https://google.com/donate">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
+  <a href="https://op.dllkids.xyz/">
+    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="2023 haappy new year" />
   </a>
 </div>
 
@@ -25,4 +25,3 @@
    <br />
  </div>
  <br />
-
