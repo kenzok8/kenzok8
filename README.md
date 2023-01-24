@@ -19,8 +19,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
   </a>
 </p>
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
    <small><img src="https://v1.jinrishici.com/all.svg?font-size=24&spacing=6"></small>
    <br />
