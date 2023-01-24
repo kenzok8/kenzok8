@@ -4,7 +4,7 @@
 
 <div align="right">
   <a href="https://op.dllkids.xyz/">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="2023 haappy new year" />
+    <img src="https://img.shields.io/badge/2023 haappy new year-ff69b4.svg?style=flat" alt="2023" />
   </a>
 </div>
 
