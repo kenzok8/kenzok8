@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@main
 
       - name: Auto green
         run: |
@@ -24,7 +24,7 @@ jobs:
           git push
 
       - name: Delete workflow runs
-        uses: Mattraks/delete-workflow-runs@v2.0.1
+        uses: Mattraks/delete-workflow-runs@main
         with:
           retain_days: 1
           keep_minimum_runs: 3
