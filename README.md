@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://google.com">
-    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
+    <img width="100" src="https://github.com/aralroca/aralroca.com/blob/master/src/public/images/logo.svg" alt="logo" />
   </a>
 </p>
 
