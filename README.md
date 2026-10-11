@@ -22,11 +22,11 @@ fork ▶ collect ▶ gate ▶ build ▶ serve ▶ install
 
 | Layer | Project | What it does | |
 |:---|:---|:---|---:|
-| Fork | [`wall`](https://github.com/kenzok8/wall) | 代理内核集合，所有修包的源头 | ![Stars](https://img.shields.io/github/stars/kenzok8/wall?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=00ffff) |
+| Fork | [`openwrt-tower`](https://github.com/kenzok8/openwrt-tower) | 订阅解析与配置生成，Tower 插件后端 | ![Stars](https://img.shields.io/github/stars/kenzok8/openwrt-tower?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=00ffff) |
 | Collect | [`openwrt-packages`](https://github.com/kenzok8/openwrt-packages) | OpenWrt 常用软件包总集 | ![Stars](https://img.shields.io/github/stars/kenzok8/openwrt-packages?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=00ffff) |
 | Collect | [`small-package`](https://github.com/kenzok8/small-package) | 每日自动同步上游库软件 | ![Stars](https://img.shields.io/github/stars/kenzok8/small-package?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=00ffff) |
 | Collect | [`small`](https://github.com/kenzok8/small) | 精简分发源 — mihomo / sing-box / dae / passwall | ![Stars](https://img.shields.io/github/stars/kenzok8/small?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=00ffff) |
-| Gate | [`litte`](https://github.com/kenzok8/litte) | 双 SDK × 22 架构编译测试 | ![Stars](https://img.shields.io/github/stars/kenzok8/litte?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=00ffff) |
+| Gate | [`openwrt-honk`](https://github.com/kenzok8/openwrt-honk) | eBPF 透明代理，双 SDK × 多架构编译 | ![Stars](https://img.shields.io/github/stars/kenzok8/openwrt-honk?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=00ffff) |
 | Build | [`openwrt_Build`](https://github.com/kenzok8/openwrt_Build) | 一键多设备固件编译 | ![Stars](https://img.shields.io/github/stars/kenzok8/openwrt_Build?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=00ffff) |
 | Build | [`compile-package`](https://github.com/kenzok8/compile-package) | small-package 每日编译出 ipk / apk | ![Stars](https://img.shields.io/github/stars/kenzok8/compile-package?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=00ffff) |
 | Install | [`openwrt-clashoo`](https://github.com/kenzok8/openwrt-clashoo) | 开箱即用的 mihomo / sing-box LuCI 代理插件 | ![Stars](https://img.shields.io/github/stars/kenzok8/openwrt-clashoo?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=00ffff) |
